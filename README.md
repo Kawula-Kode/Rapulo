@@ -1,2 +1,1 @@
-# Rapulo
-A Simple JS Framework. Comming Soon!
+# Rapulo. Comming Soon!
